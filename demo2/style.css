@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(166, 168, 170);
+    display: block;
+    margin: auto;
+}
+.gallery{
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    margin: 30px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    position: relative;
+}
+
+img{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+span{
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 10px;
+    padding-inline: 10px;
+    margin-left: 2vh;
+    font-size: 1.2em;
+    color: rgb(158, 157, 157);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+h2{
+    padding-left: 25px;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 10px 0px;
+}
+
+.para{
+    padding-left: 25px;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(158, 157, 157);
+
+}
+
+.link{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    border: 2px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: rgb(54, 38, 202);
+    font-size: 18px;
+    font-weight: bold;
+    margin: 25px;
+    margin-left:  120px;
+    margin-right: 120px;
+    background-color: rgba(127, 134, 236, 0.623);
+
+    
+}
+
+.button{
+    text-align: center;
+}
+.button button{
+    padding: 8px 18px;
+    border-radius: 15px;
+    background-color: rgb(216, 236, 253);
+    color: rgb(14, 150, 234);
+    font-size: 18px;
+    margin-top: 9px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button button:hover{
+    background-color: rgb(194, 225, 246);
+    color: rgb(10, 136, 214);
+}
