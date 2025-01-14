@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.image img{
+    width: 164px;
+}
+
+.content ul{
+    display: flex;
+    gap: 34px;
+}
+
+.content ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    
+}
+
+.content ul li span{
+    padding: 0 5px;
+}
