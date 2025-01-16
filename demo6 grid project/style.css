@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content:center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: px;
+    margin-inline-end: 600px;
+    gap: 10px;
+
+}
