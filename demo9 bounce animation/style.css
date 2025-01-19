@@ -1,0 +1,53 @@
+.container{
+    position: relative;
+    height: 80vh;
+    width: 80vw;
+    background-color: aquamarine;
+}
+
+.box{
+    height: 121px;
+    width: 121px;
+    background-color: brown;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    animation: vishal1 3s linear infinite alternate, vishal2 3s ease-out 3s, vishal3 3s ease-in 6s;
+}
+
+@keyframes vishal1 {
+    from{
+        background-color: black;
+    }
+
+    to{
+        background-color: bisque;
+        transform: translatex(100px) translateY(-200px);
+    }
+    
+}
+
+@keyframes vishal2 {
+    from{
+        
+    }
+
+    to{
+        transform: translatex(300px) translateY(0px);
+    }
+
+}
+
+@keyframes vishal3 {
+    from{
+        transform: translatex(300px) translateY(0px);
+    }
+
+    to{
+        transform: translatex(600px) translateY(-400px);
+    }
+
+}
+
+
