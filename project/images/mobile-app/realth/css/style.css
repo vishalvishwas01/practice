@@ -1,0 +1,1148 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap');
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{	
+	font-family: 'Montserrat', sans-serif;
+}
+p{
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Montserrat', sans-serif;
+}
+.Navigation {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  transition: 0.2s;
+  z-index: 9999;
+  background-color: #fff;
+}
+.container-fluid{
+	padding-left:  7rem !important;
+	padding-right:  7rem !important;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 80vh;
+}
+.nav-item .nav-link {
+    padding: 0.5rem 1.66rem !important;
+    color: #000;
+}
+.nav-item.active a {
+    background-color: #000;
+    color: #fff;
+}
+.Banner{
+	position: relative;
+}
+.Over_Absolute {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background-color: #000000a1;
+	height: 100%;
+}
+.Over_Banner {
+	text-align: center;
+	color: #fff;
+	padding: 22vh 0vh;
+}
+.Form_Submit{
+	background-color: #000 !important;
+	color: #fff !important;
+	border-radius: 0px !important;
+	border: none !important;
+	height: 45px !important;
+	font-family: 'Montserrat', sans-serif;
+	padding-left: 2rem !important; 
+	padding-right: 2rem !important; 
+	font-weight: bold !important;
+}
+.Banner_Heading{
+	margin-bottom: 5vh;
+}
+.Banner_Button{
+	margin-bottom: 5vh;
+}
+.Banner_Button button{
+	background-color: #fff !important;
+	color: #000 !important;
+	border-radius: 0 !important;
+	font-weight: bold !important;
+	padding: 0.5rem 2.5rem;
+	font-size: 1rem;
+}
+.Coloum_Content button{
+	background-color: #000 !important;
+	color: #fff !important;
+	border-radius: 0 !important;
+	border: 2px solid #000 !important;
+	font-weight: bold !important;
+}
+.Coloum_Content button:hover{
+	color: #000;
+	background-color: #fff;
+	border-radius: 0;
+	border: 2 solid #000;
+}
+.Coloum_Content{
+	text-align: center;
+}
+.Offer_Coloum{
+	box-shadow: 0px 0px 4px 4px #989898;
+	padding: 1rem;
+	height: 100%;
+}
+.Offer{
+	margin: 3rem 0rem;
+}
+.Offer h2{
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 3rem;
+}
+.Offer_Coloum h3 {
+	font-size: 26px;
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+.Latest_Project{
+	margin-top: 7rem;
+}
+.Latest_Project h2{
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 3rem;
+}
+.Latest_Colum {
+	position: relative;
+	height: 100%;
+	margin-bottom: 1.5rem;
+}
+.Latest_Text{
+	position: absolute;
+	bottom: 2.5rem;
+}
+.Latest_Image img{
+	width: 100%;
+	height: 351px;
+  box-shadow: 5px 10px 8px #888888;
+}
+.Latest_Text {
+	width: 100%;
+	color: #fff;
+	background-color: #00000094;
+	padding: 0.4rem;
+}
+.Latest_Text p{
+	margin-bottom: 0rem;
+}
+.Latest_Text h4 span {
+    float: right;
+}
+.Default_Button_O{
+	text-align: center;
+}
+.Default_Button_O button{
+	border-radius: 0px;	
+	border:2px solid #000;
+	color: #000;
+	background-color: #fff;
+	padding-left: 5rem; 
+	padding-right:  5rem; 
+}
+.Default_Button_O button:hover{
+	background-color: #000;
+	color: #fff;
+}
+
+.VIP_Pass {
+	background-image: url(../img/architecture-buildings-canada.jpg);
+	background-size: cover;
+	background-position: 0%;
+	margin: 5rem 0rem;
+}
+.For_Overlay{
+	background-color: #000000b0;
+	padding: 3rem 0rem;
+}
+.Vip_Pass_BG{
+	color: #fff;
+}
+.Vip_Input{
+	margin-top: 2rem;
+
+}
+.Vip_Inputs	 input{
+	border: 3px solid #fff !important;
+	background: transparent;
+	border-radius: 0;
+}
+.Vip_Inputs	 input:focus{
+	border: 3px solid #fff !important;
+	background: transparent;
+	border-radius: 0;
+	color: #fff;
+}
+.Vip_Submit input{
+	border: 3px solid #fff !important;
+	background-color: #fff;
+	color: #000;
+	font-weight: bold;
+	border-radius: 0;
+}
+.Vip_Submit button{
+	border: 3px solid #fff !important;
+	background-color: #fff;
+	color: #000;
+	font-weight: bold;
+	border-radius: 0;
+}
+.Vip_Input_Placeholder::placeholder{
+	color: #fff !important;
+}
+.Footer{
+	background-color: #2d2b2b;
+}
+.Footer_Contact{
+	color: #989898;
+}
+.Footer_Address{
+	line-height: 25px;
+	margin-top: 2rem;
+}
+.Phone i{
+	width: 20px;
+}
+.Location i{
+	width: 20px;
+}
+.Mail i{
+	width: 20px;
+}
+.Social_Icon ul{
+	display: inline-flex;
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+.Social_Icon ul li{
+	text-align: center;
+	background-color: #fff;
+	color: #2d2b2b;
+	margin: 5px;
+	border-radius: 50%;
+
+}
+.Social_Icon ul li i {
+	text-align: center;
+	padding: 10px;
+	width: 33px;
+	height: 33px;
+}
+.Quick_Links p a{
+	text-decoration: none;
+	color: #fff;
+}
+.Quick_Links{
+	color: #fff;
+	margin-top: 2rem;
+}
+.Quick_Links h3{
+	color: #fff;
+	margin-bottom: 2rem;
+}
+.Quick_Links p a:hover{
+	text-decoration: none;
+	color: #989898;
+}
+.Footer{
+	padding: 0rem 0rem 2rem 0rem;
+}
+.Footer_Logo img{
+	height: 151px;
+}
+.Newsletter {
+	color: #fff;
+	margin-top: 2rem;
+}
+.Newsletter h3{
+	color: #fff;
+	margin-bottom: 2rem;
+}
+.Footer_Newsletter input{
+	height: 45px;
+}
+.Footer_Button input{
+	background-color: #FF8A00;
+	color: #fff;
+}
+.Footer_Button input:hover{
+	background-color: #FF9800;
+	color: #fff;
+}
+.Copyright{
+	padding: 1rem 0rem 0.1rem 0rem;
+}
+.Copyright p{
+	color: #989898;
+	text-align: center;
+}
+.Copyright p a{
+	color: #fff;
+	text-decoration: none;
+}
+.Copyright p a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+.Copyright{
+	background-color: #333;
+}
+.navbar-brand img{
+	width: 100%;
+
+}
+.navbar {
+    padding: 0 !important;
+}
+.navbar-brand {
+    padding:0 !important;
+    width: 10%;
+}
+.banner_input_text {
+	width: 100% !important;
+	border-radius: 0 !important;
+	border: 4px solid #000 !important;
+	height: 45px !important;
+}
+
+
+
+/**********************All Project*********************/
+
+.Filter{
+	margin: 2rem 0rem;
+}
+.Banner_Image img{
+	width: 100%;
+}
+.Inner_Banner{
+	position: relative;
+	width: 100%;
+}
+.Banner_Content{
+	position: absolute;
+	width: 100%;
+	top: 40%;
+	text-align: center;
+
+}
+.Banner_Text{
+	padding: 0rem 5rem;
+	color: #fff;
+}
+.Go_Button button{
+	background-color: #000 !important;
+	color: #fff !important;
+	border-radius: 0 !important;
+	width: 100%;
+	height: 45px;
+}
+.Reset_Button button{
+	color: #000 !important;
+	background-color: #fff !important;
+	border-radius: 0 !important;
+	width: 100%;
+	height: 45px;
+	border: 2px solid #000;
+}
+.Banner_Text h2{
+	font-size: 3rem;
+}
+.Banner_Text p{
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+select {
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  -o-appearance: none !important;
+}
+select.classic {
+	background-image: url(../img/select-arrow.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+}	
+.classic{
+	border: 2px solid #000 !important;
+	border-radius: 0 !important;
+	height: 45px !important;
+}
+.Search_input_text {
+	border-radius: 0 !important;
+	border: 2px solid #000 !important;
+	height: 45px !important;
+	width: 100% !important;
+}
+
+.search_Icon{
+	background-color: #000 !important;
+	color: #fff !important;
+	border-radius: 0px !important;
+	border: none !important;
+	height: 45px !important; 
+	text-align: center;
+}
+.search_Icon i{
+	font-size: 42px;
+	text-align: center; 
+}
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+}
+
+.pagination a.active {
+	background-color: #000;
+	color: white;
+	border: 1px solid #000;
+}
+.pagination a:hover {
+	background-color: #000;
+	color: white;
+	border: 1px solid #000;
+}
+
+.pagination a:hover:not(.active) {
+	background-color: #000;
+	color: #fff;
+}
+.pagination:hover a{
+	text-decoration: none;
+}
+.Hidden_Label{
+	visibility: hidden;
+}
+.For_Select label {
+	font-weight: bold;
+}
+.Latest_Project_Inner{
+	margin:4rem 0rem 5rem 0rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.First{
+	height:100%;
+}
+
+
+.Second{
+	height:100%;
+}
+
+
+.third{
+	height:100%;
+}
+
+.Fourth{
+	height:100%;
+}
+
+
+.Fifth{
+	height:100%;
+}
+
+.Sixth{
+	height:100%;
+}
+.Heading h4 {
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+	/* padding: ; */
+	font-size: 14px;
+	position: relative;
+	top: 1.5rem;
+}
+
+.Heading {
+    height: 100%;
+}
+.PlPr{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+.Footer_Link p a{
+	text-decoration: none;
+	color: #000;
+}
+.Footer_Link p:hover{
+	background-color: #f4f4f4;
+}
+.Footer_Link p{
+	padding: 1rem 0.5rem;
+}
+.Footer_Link p:hover a{
+	text-decoration: none;
+	color: #000;
+}
+.Footer_Link {
+    height: 5rem;
+}
+.Banner_Go_Button button{
+	background-color: #000;
+	color: #fff;
+	padding:0.5rem 3rem;
+}
+.Banner_Form{
+	position: absolute;
+	top: .5rem;
+	right: 0;
+	width: 100%;
+}
+.Form{
+	background-color: #fff;
+	border-radius: 5px;
+	padding: 1rem;
+}
+.Form h3{
+	font-weight: bold;
+	font-size: 4vh;
+	margin-bottom: 3rem;
+	text-transform: uppercase;
+}
+.Form input{
+	border-radius: 0 !important;
+	height: 30px !important;
+}
+.Form select{
+	border-radius: 0 !important;
+	height: 30px !important;
+	padding-top: 0;
+}
+.Form label{
+	font-weight: bold;
+}
+.Check_Banner{
+	position: relative;
+	top: -10px;
+}
+
+
+/*----Kasim--*/
+
+.After_Banner{
+	background-color: #1DA2A3;
+	padding-top: 1rem ;
+}
+.Project_Content{
+	position: relative;
+}
+.Project_Logo{
+	position: relative;
+	height: 100%;
+}
+.Project_Logo img{
+	position: absolute;
+	bottom: 0;	
+}
+.Rating{
+	margin-top: 1.5rem;
+}
+.Rating p i{
+	color: yellow;
+	font-size: 18px;
+}
+.Project_title h2{
+	color: #fff;
+	font-weight: bold;
+}
+.Project_title p{
+	color: #fff;
+}
+
+
+/*---start_details---*/
+
+.details{
+	margin-top:5rem;
+}
+
+.details_content{
+	box-shadow:1px 1px 5px 0px black;
+	padding:20px 20px 50px 20px;
+}
+
+.details_content h2{
+	font-weight:bold;
+}
+
+.details_content p{
+	line-height: 2;
+}
+
+.details_content button{
+	font-weight:bold;
+}
+
+
+.bottom_images{
+	margin-top:1rem;
+}
+
+/*---End_details---*/
+
+
+
+/*---Start_reasons---*/
+
+.reasons{
+	margin-top:2rem;
+}
+
+.reasons_one{
+	box-shadow:1px 1px 5px 0px black;
+}
+
+.reasons_content_four{
+	box-shadow: 0 1px 2px 0 rgba(0,0,0,.13), 0 1px 5px 0 rgba(0,0,0,.08);
+	height:100%;
+	padding:15px;
+}
+
+.reasons_content_three ul{
+	line-height:2;
+}
+
+.reasons_content_six p{
+	line-height:2;
+}
+
+/*---End_reasons---*/
+
+
+/*---Start_map---*/
+
+.map_one{
+	margin-top:2rem;
+}
+
+.map_two{
+	box-shadow:1px 1px 5px 0px black;
+}
+
+/*---End_map--*/
+
+
+/*---start-about_us---*/
+
+.about_us{
+	margin-top:2rem;
+}
+
+.about_heading h4{
+	text-align:center;
+	font-weight:bold;
+	font-size:35px;
+}
+
+.about_para{
+	margin-top:2rem;
+}
+
+.about_para p{
+	text-align:justify;
+}
+
+.about_heading_one{
+	margin-top:2rem;
+}
+
+.about_heading_one h3{
+	font-weight:bold;
+	font-size:35px;
+}
+
+.about_heading_two{
+	margin-top:2rem;
+}
+
+.about_heading_two h3{
+	font-weight:bold;
+	font-size:35px;
+}
+
+.about_heading_two p{
+	text-align:justify;
+}
+
+.our_team_img img{
+	width:100%;
+}
+
+.our_team_img p{
+	font-weight:bold;
+	text-align:center;
+	margin-top:1%;
+}
+
+/*---end-about_us---*/
+
+
+/*---start-about_banner_heading---*/
+
+.banner_heading{
+	padding:0 15% 0 15%;
+}
+
+.banner_heading h4{
+	font-weight:bold;
+	font-size:24pt;
+	text-align:center;
+	color:white;
+}
+
+.banner_heading p{
+	text-align:center;
+	color:white;
+}
+
+.about_banner{
+	position:absolute;
+	top:40%;
+}
+
+/*---end-about_banner_heading---*/
+
+
+/*---start-product_details---*/
+.project_details{
+	position:absolute;
+	top:35%;
+}
+
+.project_banner_form{
+	border:1px solid black;
+	border-radius:20px;
+	width:90%;
+	box-shadow:5px 5px 5px 0px gray;
+	background-color:#fff;
+}
+
+.project_details_heading{
+	padding:1rem 1rem 0rem 1rem;
+	border-bottom:1px solid #000;
+}
+
+.project_details_heading p{
+	font-weight:bold;
+	font-size: 26px;
+	text-align:justify;
+}
+
+.form{
+	padding:1rem;
+	line-height: 50px;
+}
+
+.banner_fomr_select{
+	padding:0rem 1rem;
+}
+
+.banner_form_btn{
+	text-align:center;
+}
+
+.banner_form_btn button{
+	background-color:black;
+	color:white;
+	padding:5px 40px 5px 40px;
+}
+
+.banner_form_btn button:hover{
+	color:white;
+}
+
+.banner_form_input input{
+	border-radius:0px;
+	border:1px solid #000;
+}
+
+.banner_form_input input:focus{
+	box-shadow: none;
+	border:1px solid #000;
+}
+
+.banner_form_label label{
+	font-weight:bold;
+}
+
+.form_right_heading p{
+	font-weight:bold;
+	font-size:48px;
+	text-align:center;
+	color:#fff;
+}
+
+.project_banner_form form{
+	padding:25px 0 25px 0;
+}
+
+.form_right_rate_heading{
+	padding:0.5rem;
+}
+
+.form_right_rate_heading h5{
+	font-size:36px;
+	font-weight:bold;
+}
+
+.form_right_rate_heading p{
+	font-weight:bold;
+	font-size: 16px;
+}
+
+.form_right_rate_heading i{
+	color:#EE8A1A;
+	font-size:30px;
+}
+
+.form_right_rate_main{
+	border:2px solid black;
+	background-color:white;
+	margin-top:1rem;
+}
+
+.form_right_rs{
+	background-color:#007BFF;
+	height:100%;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.form_right_rs p{
+	font-size:100px;
+	font-weight:bold;
+	color:#fff;
+}
+
+.form_right{
+	background-color:white;
+}
+
+.p_details{
+	margin-top:4rem;
+}
+
+.p_details h5{
+	text-align:center;
+	font-size:35px;
+	font-weight:bold;
+	color:#000;
+}
+
+.p_details p{
+	text-align:justify;
+	line-height:26px;
+	color:black;
+	padding-top:1%;
+}
+
+.P_Details{
+	border:1px solid #000;
+	padding:2rem 1rem 3rem 1rem;
+	border-radius:20px;
+	box-shadow:5px 5px 5px 0px gray;
+}
+
+
+.reasons{
+	margin-top:3rem;
+}
+
+.reasons_main{
+	border-radius:20px;
+	box-shadow:5px 5px 5px 0px gray;
+	border:1px solid #000;
+	padding:1rem;
+	height: 100%;
+}
+
+.reasons_main p{
+	text-align: center;
+	font-size:35px;
+	font-weight:bold;
+	color:#000;
+}
+
+.reasons_event ul{
+	line-height:26px;
+}
+
+.quick_facts_heading h6{
+	font-weight:bold;
+	font-size:35px;
+	text-align:center;
+	color:#000;
+}
+
+.quick_main{
+	margin-top:3rem;
+}
+
+.quick_facts{
+	border:1px solid #000;
+	border-radius:20px;
+	padding:1rem;
+	box-shadow:5px 5px 5px 0px gray;
+	height: 100%;
+}
+
+
+.location{
+	border:1px solid #000;
+	border-radius:20px;
+	padding:1rem;
+	box-shadow:5px 5px 5px 0px gray;
+	height: 100%;
+}
+
+.location_heading h5{
+	font-weight:bold;
+	font-size:35px;
+	text-align:center;
+	color:#000;
+}
+.location_map iframe {
+    width: 100%;
+    min-height: 333px;
+}
+.project_img img{
+	width: 100%;
+	border: 1px solid #000;
+	margin-bottom: 1rem;
+}
+.reasons_heading{
+	text-transform: uppercase;
+}
+.quick_facts_heading h6{
+	text-transform: uppercase;
+}
+.Latest_Project_heading{
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	color: #000;
+	text-transform: uppercase;
+}
+.Why_Realth{
+	margin-top: 4rem;
+}
+.Our_Team{
+	margin-top: 4rem;
+}
+/*---end-product_details---*/
+
+
+
+
+
+.Tab_Heading h3 {
+	text-transform: uppercase;
+	font-size: 50px;
+	margin-top: 0.8rem;
+}
+.Tab_Input input {
+	height: 72px;
+	background-color: #eee;
+	font-size: 40px;
+	font-weight: 600;
+	text-align: center;
+}
+.Tab_Input select {
+	height: 51px;
+	background-color: #eee;
+	font-size: 20px;
+	font-weight: 600;
+	text-align: center;
+}
+
+.Tab_Input select {
+	background-image: url(../img/select-arrow.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+	background-size: 15%;
+
+}
+.Tab_Button{
+	text-align: right;
+}
+.Tab_Button button {
+	background-color: #000;
+	color: #fff;
+	padding: ;
+	height: 72px;
+	padding: 0rem 3rem;
+	font-size: 27px;
+}
+.toast-header {
+	background-color: #000 !important;
+}
+.toast-header strong{
+	color: #fff !important;
+	font-size: 11px;
+}
+.toast-header button {
+	color: #fff !important;
+	font-size: 14px;
+	opacity: 1;
+}
+.toast-body {
+	padding: 0.20rem 0.5rem;
+	font-size: 11px;
+}
+.Purchase_Form {
+	padding: 1rem 0rem;
+	border-bottom: 1px solid #ece4e4;
+}
+.Input_Title {
+	height: 100%;
+	padding-top: 1.4rem;
+}
+.Input_Title_O span {
+	margin-right: 0.2rem;
+}
+.Input_Title span {
+	margin-right: 0.2rem;
+}
+.Rate {
+	text-align: center;
+}
+.Input_Title_O {
+	height: 100%;
+}
+.Plus-Minis {
+	float: right;
+	background-color: #000;
+	border-radius: 50%;
+	padding: 0.2rem 0.43em;
+	color: #fff;
+	font-size: 12px;
+}
+.Dollor_Sign p{
+	font-size: 40px;
+}
+.Dollor_Sign{
+	text-align: center;
+}
+.Mortgage{
+	background-color: #f4f4f4;
+	padding: 1rem 0.5rem 0.5rem 0.5rem;
+	margin: 1rem 0rem;
+}
+.Land_tax span{
+	float: right;
+}
+	
+	.custom_control_input:checked ~ .custom_control_label::before {
+
+    color: #fff !important;
+    border-color: #000 !important;
+    background-color: #000 !important;
+
+}
+.panel-title > a:before {
+    float: right !important;
+    font-family: FontAwesome;
+    content:"\f068";
+    padding-right: 5px;
+}
+.panel-title > a.collapsed:before {
+    float: right !important;
+    content:"\f067";
+}
+.panel-title > a:hover, 
+.panel-title > a:active, 
+.panel-title > a:focus  {
+    text-decoration:none;
+}
+.panel {
+
+    padding: 1rem 0rem;
+
+}
+.panel-title a {
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+}
+.tab-content {
+	border-left: 1px solid  #dee2e6;
+	border-right: 1px solid  #dee2e6;
+	border-bottom: 1px solid  #dee2e6;
+}
+.Padding{
+	padding: 0rem 2rem;
+}
+.Calculator_Class{
+	padding: 0rem 3rem;
+}
+.nav_item{
+	background-color: #000;
+	color: #fff;
+}
+.nav_item .nav-link.active{
+	background-color: #fff !important;
+	color: #000 !important;
+}
+.nav_item:hover a{
+	border-color:  #000 !important;
+}
+.nav_item a{
+	color: #fff !important;
+}
+.Calculator{
+	margin-top: 5rem;
+}
+.Calculator h2 {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+}
+.BR{
+	border-right: 1px solid  #dee2e6;
+}

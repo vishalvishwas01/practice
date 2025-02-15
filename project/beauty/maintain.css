@@ -1,0 +1,924 @@
+@media screen 
+and (min-device-width: 1600px) 
+and (max-device-width: 2044px) {
+  p{
+  font-size: 16px;
+  }
+  li{
+  font-size: 16px;
+  }
+  .process-box p {
+    font-size: 14px;
+  }
+}
+@media screen 
+and (min-device-width: 992px) 
+and (max-device-width: 1024px) {
+  .SkypeMargin button a{
+    margin-left: 10px;
+  }
+  .WhyChoose .Box1 {
+    width: 17%;
+  }
+  .LogoDesign{
+    padding: 30px 0;
+  }
+  .Box1.custombox{
+    width: 22% !important;
+  }
+  .JobDescriptionTwo {
+    width: 80%;
+  }
+  .JobDescription {
+    width: 20%;
+  }
+  .ContactSecOne .Form-Sec{
+    top: 86%;
+  }
+  .ContactSecOne .nav-tabs .nav-item{
+    padding: 0;
+    font-size: 16px;
+  }
+  .ContactSectionTwo .MainAddress {
+    margin-top: 5%;
+  }
+  .footer_item .social_bg i{
+    font-size: 12px;
+  }
+  .footer_item .social_bg{
+    width: 30px;
+    height: 30px;
+  }
+  .footer_item .social_icon{
+    text-align: left !important;
+  }
+  .Satisfaction.mt-5 {
+    margin-top: 0 !important;
+  }
+  .nav-tabs .nav-item {
+    border: 1px solid #11850b;
+  }
+  .ServiceHeading.Graphic p {
+    padding: 10px 30px;
+  }
+}
+@media screen 
+and (min-device-width: 768px) 
+and (max-device-width: 992px) {
+  .ContactPhone img {
+    height: 500px !important;
+    width: 100%;
+    margin-top: 0rem !important;
+  }
+  .footer_logo img {
+    width: 76%;
+    margin-top: 10% !important;
+  }
+
+  .BannerImage img {
+    width: 100%;
+    /*height: 60vh !important;*/
+  }
+  .InnerBannerImage {
+height: 31vh;
+}
+.InnerBannerImage .BannerImage img {
+width: 100%;
+height: 31vh;
+}
+
+  .HomeBanner{
+    height: 60vh !important;
+  }
+  .HeaderTop{
+    text-align: right !important;
+  }
+  .HeaderTop ul li a {
+    font-size: 12.4px !important;
+  }
+  .OurIndustries .col-lg-3.col-md-6 {
+    margin-bottom: 1.5rem;
+  }
+  .OurProcess .col-lg-3.col-md-6 {
+    margin-bottom: 0rem;
+  }
+  .counter-value {
+    font-size: 32px;
+  }
+  .ClientP p {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 900;
+    margin-top: 0rem;
+  }
+  .HomeBannerContent {
+    top: 21%;
+  }
+  .table .Heading{
+    font-size: 20px;
+  }
+  .table .RowHeading{
+    font-size: 16px;
+  }
+  .TableScroll .table{
+    width: 100%;
+    overflow: hidden;
+  }
+  .AppSectionOne h4{
+    padding: 10px;
+    margin-bottom: 0px;
+  }
+  .AppSectionOne p{
+    padding: 0px;
+    margin-top: 0px;
+  }
+  .LaravelAdv .title-txt {
+    margin-left: 11%;
+  }
+  .BlockChainSecTwo {
+    padding-bottom: 3%; 
+  }
+  .BlockChainSecTwo .ServiceTitle {
+    font-size: 17px;
+  }
+  .BlockChainSecTwo .FeatureBox {
+    padding: 20px 10px;
+  }
+  .WhyChoose .Box1 {
+    width: 17%;
+  }
+  .ServiceTitle{
+    font-size: 15px;
+  }
+  .ServiceDesc{
+    height: 100%;
+  }
+  .ServiceIcon img{
+    height: 50%;
+  }
+  .Box1.custombox {
+    width: 22% !important;
+  }
+  .HeadingArea .HeadingTitle h4{
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .WhyChoose .Box1{
+    padding: 10px;
+  }
+  .AppMaintenanceService .ServiceDesc .ServiceBenefit{
+    height: 15%;
+  }
+  .WhyChoose .Box1 h4{
+    font-size: 13px;
+  }
+  .JobColn h3{
+    font-size: 14px;
+  }
+  .JobDescription {
+    width: 100%;
+  }
+  .JobDescriptionTwo ul {
+    padding-left: 15px;
+  }
+  .ContactSectionTwo .MainAddress {
+    margin-top: 6%;
+  }
+  /* New Css */
+  .process-box{
+    min-height: auto;
+  }
+  .OverLAy .social_icon{
+    text-align: left;
+  }
+  .DropdownContent .col-md-3 {
+    flex: 0 0 50% !important;
+    max-width: 50%;
+  }
+  .HomeBannerContent {
+    top: 35% !important;
+  }
+  .foot-link.foot_link_hire h3 {
+    text-align: left !important;
+  }
+  .Satisfaction.mt-5 {
+    margin-top: 0 !important;
+  }
+  .WhyPointer ul li{
+    padding: 10px 5px 10px 30px;
+  }
+  .AndroidAppService{
+    padding: 0;
+  }
+  .BlockChainSecTwo{
+    padding: 50px 0;
+  }
+  .WeDo.pt-15 {
+    padding: 0 !important;
+  }
+  .DivLeft .Heading h4 {
+    font-size: 20px;
+  }
+  .HireDrupal .WhyAdv{
+    height: 90%;
+  }
+  .Hire_Title p{
+    font-size: 20px;
+    text-align: left;
+  }
+  .AndroidAppService {
+    padding-top: 20px;
+  }
+}
+@media (max-width: 992px){
+  p{
+    font-size: 14px;
+  }  
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    text-align:center;
+  }
+  .Navigation ul {
+    list-style-type: none;
+    display: block;
+    padding-left: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    text-align: left;
+    line-height: 46px;
+  }
+  .HeaderTop ul li {
+    margin-left: 1.5rem;
+    width: max-content;
+  }
+  .HeaderTop ul li {
+    margin-left: 0.5rem;
+    width: max-content;
+  }
+  .HeaderTop ul li a {
+    color: #444;
+    font-size: 8.4px;
+  }
+  .Navigation {
+    display: block;
+  }
+  .HomeBannerContent {
+    top: 15%;
+  }
+  .BannerText h1 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+  .BannerText h2 {
+    font-size: 12px;
+  }
+  .BannerText ul li {
+    font-size: 12px;
+  }
+  .BannerImage img {
+    width: 100%;
+    height: 80vh;
+  }
+  .AboutHeading h2 {
+    font-size: 20px;
+  }
+  .AboutHeading p {
+    font-size: 14px;
+  }
+  .ServicesHeading h4 {
+    font-size: 30px;
+  }
+  .nerdy-pen__text {
+    font-size: 20px;
+  }
+  .solutions-box{
+    box-shadow:0 3px 10px rgba(0,0,0,.15);
+  }
+  .ClientCounter {
+    background-position: center;
+  }
+  .process-items::before {    
+    left: 50px;
+    top: auto;
+    bottom: 0;
+    width: 1px;
+    height: 42px;
+  }
+  .process-items i{
+    top: auto;
+    bottom: 10px;
+    left: 40px;
+  }
+  .process-items i::before{
+    top: auto;
+    bottom: 10px;
+    left: 40px;
+    content: "\f107";
+  }
+  .ContactPhone {
+    position: relative;
+    width: 100%;
+  }
+  .ContactPhone img {
+    height: 80vh;
+    width: 100%;
+    margin-top: 2rem;
+  }
+  .process-items.Seventh::before{
+    display: none;
+  }
+  .NavButton{
+    display: block !important;
+  }
+  .Header {
+    top: 3%;
+  }
+  .Header.header.sticky{
+    top: 0% !important;
+    padding: 6px 0px;
+  }
+  .Header.header.sticky .btn.NavButton{
+    margin-top: 0.4rem;
+  }
+  .Header.header.sticky .TopHeader{
+    display: none;
+  }
+  .Header.header.sticky .Header {
+    top: 0%;
+    margin-bottom: 0;
+  }
+  .Logo img {
+    top: 0rem;    
+    width: 192px;
+  }
+  .Navigation ul li {
+    margin-left: 0rem;
+    padding-left: 15px;
+  }
+  #mySidenav .Navigation ul li {
+    margin-left: 0 !important;
+    padding-left: 18px;
+  }
+  .sidenav .HeaderTop ul {
+    display: inline-flex;
+    line-height: initial;
+    font-weight: 400 !important;
+    font-size: 8.4px;
+  }
+  .sidenav .HeaderTop ul li a{
+    font-weight: 400 !important;
+    font-size: 8.4px;
+  }
+  .MobNavigation {
+    padding: 0px 15px;
+    position: relative;
+    margin-bottom: 2rem;
+    padding-top: 0.3rem;
+  }
+  .DropdownButton {
+    position: relative;
+  }
+  .DropdownContent .col-md-3 {
+    margin-bottom: 2rem;
+  }
+  .HeaderTop {
+    text-align: left;
+  }
+  .HeaderTop ul li {
+    margin-left: 0rem;
+    padding-left: 0.5rem;
+  }
+  .sidenav .HeaderTop ul{
+    padding-left: 15px;
+  }
+  .HeaderTop ul li {
+    margin-left: 0px;
+    padding-right:  0.5rem;
+    padding-left: 0 !important;
+  }  
+  .information.bg-img .col-lg-4.col-md-9.col-sm-12{
+    margin-bottom: 1rem;
+  }
+
+  .information.bg-img .col-lg-2.col-md-6.col-sm-6.col-xs-6.footer_item_remove_padding{
+    margin-bottom: 1rem;
+  }
+  .men_foot_link ul {
+    margin: 0px;
+    /* padding-top: 3%; */
+    padding-bottom: 5%;
+    text-align: left;
+    padding-left: 0;
+    display: block;
+    font-size: 14px;
+  }
+  .foot-link ul li a {
+    color: #fff;
+    line-height: 32px;
+    font-size: 14px;
+  }
+  .col-md-6.footer_item_remove_padding ul {
+    float: left !important;
+  }  
+  .sidenav .Logo {
+    display: block;
+  }
+  .sidenav .TopHeader {
+    display: block;
+  }
+  .ClientP p{
+    left: 0;
+  }  
+  .HomeBanner{
+    height: 80vh;
+  }
+  .nav-item {
+    width: 50%;
+  }
+  .Order1{
+    order: 1;
+  }
+  .Order2{
+    order: 2;  
+  }
+  .OneKey img {
+    width: 40%;
+  }
+  .PortfolioText {
+    position: relative;
+    top: 0rem;
+    margin-top: 2rem;
+  }
+  .AppHeading .AppTitle {
+    top: 1.5rem;
+  }
+  .AppTitle p {
+    color: #fff;
+    display: block;
+    font-size: 18px;
+  }
+  .WhatWeDo {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  .PortfolioImage img {
+    width: 67%;
+    display: block;
+    margin: auto;
+  }
+  .WhatWeDo {
+    margin-top: 3rem;
+  }
+
+  .Portfolio .nav-item{
+    width: max-content;
+  }
+}
+@media screen 
+and (min-device-width: 311px) 
+and (max-device-width: 425px) {
+  .QuoteSecOne .QuoteOne h1{
+    font-size: 30px;
+    margin-top: 10px;
+  }
+  .table .RowHeading {
+    font-size: 14px;
+  }
+  .About {
+   margin-top: 3rem; 
+}
+.ContactHeading {
+  padding: 0;
+}
+#faq .accordion .card .card-header button span {
+  margin: 0;
+}
+.FlutterSecOne {
+    padding-top: 20px;
+}
+.NodeJsSecTwo {
+    padding: 0px;
+}
+.NodeJsSecFour h2 {
+	font-size: 20px;
+}
+.LaravelSecThree .ConnectHeading h2 {
+  font-size: 23px;
+}
+.LaravelSecThree .ConnectHeading h2 {
+  margin-bottom: 12%;
+}
+.CrossPlatformPage h5 {
+  font-size: 14px;
+}
+.LaravelAdv p {
+  font-size: 14px;
+}
+.LaravelAdv .title-txt {
+  margin-left: 12%;
+}
+.LaravelSecThree .ConnectHeading h2 {
+    font-size: 20px;
+}
+.ZentBenefit {
+  padding: 0 20px;
+}
+.AndroidAppService {
+  padding: 0; 
+}
+.AndroidAppService .AndroidService h3 {
+  font-size: 20px;
+}
+
+/*Portfolio Start*/
+
+}
+
+@media (max-width: 480px) {
+    
+.Logo img {
+    top: -0.5rem !important;
+    width: 192px !important;
+}
+  .ReactNativeSecTwo .ReactService .ReactServiceBox1 {
+    margin-top: 30px;
+  }
+  .ReactNativeSecTwo .ReactService {
+     padding-top: 0; 
+  }
+  .CrossPlatformPage h5 {
+    font-size: 13px;
+  }
+  .ReactNativeSecOne {
+    padding: 0;
+  }
+  .ReactNativeSecThree .ReactBannerSec h2 {
+    font-size: 20px;
+    padding-top: 10%;
+  }
+  .ReactNativeSecThree {
+    padding-top: 0;
+  }
+  .IosAppDevelopment ul {
+    display: inline-block;
+  }
+  .BlockChainSecTwo {
+    padding: 30px 10px;
+  }
+  .BlockChainSecTwo .ServiceHeading h3 {
+    font-size: 20px;
+  }
+  .BlockChainSecTwo .ServiceTitle {
+    font-size: 16px;
+  }
+  .VoipSecOne .AboutHeading h2 {
+    font-size: 16px;
+  }
+  .ZentBenefit {
+    border: 1px solid #ddd;
+    margin-bottom: 5%;
+  }
+  .BenefitIcon {
+    margin-top: 4%;
+  }
+
+  .AndroidAppService .ServiceHeading p {
+    padding: 30px 0;
+  }
+  .AndroidAppService .AndroidService .col-md-2{
+    display: flex;
+    justify-content: center;
+  }
+  .AndroidAppService .AndroidIcon {
+    width: 80px;
+    height: 100%;
+  }
+  .AndroidAppService .AndroidIcon .Icon {
+    width: 60%;
+  }
+  .AndroidAppService .AndroidService h3{
+    text-align: center;
+  }
+  .AndroidAppService .AndroidService p{
+    text-align: center;
+  }
+
+  .WhyHybrid .hybrid-appbox li {
+    margin: 0 0 21px;
+  }
+  .WhyHybrid .hybrid-appbox .leftsec {
+    margin-top: 77%;
+    width: 100%;
+    text-align: center;
+  }
+  .WhyHybrid .hybrid-img {
+    left: 15%;
+    top: -1%;
+    width: 100%;
+  }
+  .hybrid-appbox .rightsec {
+    width: 100%;
+    text-align: center;
+  }
+
+  .Portfolio .nav-item a {
+    font-size: 17px;
+  }
+.AndroidService ul li {
+  text-align: center;
+}
+.WhyChoose .Box1 {
+  width: 100%;
+}
+.WhyHybrid .hybrid-img{
+  left: 0;
+}
+.ZentBenefit{
+  padding: 20px;
+}
+.hybrid-appbox .leftsec .textbox{
+  width: 100%;
+  padding: 0 20px;
+}
+.hybrid-appbox .rightsec .textbox{
+  width: 100%;
+  padding: 0 20px;
+}
+.leftsec ul {
+  padding-left: 0;
+}
+.rightsec ul {
+  padding-left: 0;
+}
+.col-md-4.CareerColn{
+  margin: 10px 30px !important;
+}
+.col-md-4.CareerColn{
+  padding: 0 10px;
+}
+.JobColn h3 {
+  font-size: 16px;
+}
+/*.AndroidAppService .AndroidService .col-md-2{
+  justify-content: left;
+}
+.AndroidAppService .AndroidService h3{
+  text-align: left;
+}
+.AndroidService ul li{
+  text-align: left;
+}*/
+.Box1.custombox {
+  width: 100% !important;
+  margin: 10px 30px;
+}
+.HeadingArea{
+  height: 95%;
+}
+.Hire_Title p{
+  font-size: 20px;
+}
+.Hire_Button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.WhyChoose .Box1{
+  margin: 10px 50px;
+}
+.AndroidAppService.bg{
+  padding: 20px 0;
+}
+.AndroidAppService .AndroidService h3{
+  font-size: 20px;
+}
+.JobDescription {
+  width: 100%;
+}
+.JobDescriptionTwo ul {
+  padding-left: 15px;
+}
+.JobDetail .col-md-11.JobTitle span{
+  margin: 0 5px 10px 0;
+}
+.row.detail {
+  padding: 0 16px 15px 16px;
+}
+.appli_lable{
+  float: left;
+}
+.appli_sub{
+  text-align: center !important;
+  float: inherit;
+}
+.ContactSectionTwo .nav.nav-tabs.tabs-left{
+  display: flex;
+}
+.ContactSectionTwo .tabs-left > li > a{
+  font-size: 14px;
+}
+.AddressDetail li .active{
+  border-bottom: 3px solid #ff6100;
+  border-left: none;
+}
+.Portfolio .nav-tabs .nav-item {
+  padding: 0px 0px;
+}
+.WhyWIE .col-md-6 {
+  margin-top: 0 !important;
+}
+.WhyPointer.Futuristic {
+  margin-top: 5%;
+}
+.WhyWIE {
+  padding-bottom: 0;
+}
+.OverLAy .social_icon{
+  text-align: left !important;
+}
+}
+@media (max-width: 425px) {
+  .Hire_Title p {
+    font-size: 16px;
+    text-align: center;
+  }
+  .AndroidAppService .ServiceHeading h3{
+    font-size: 18px;
+  }
+  .ContactSectionTwo{
+    padding: 30px 0;
+  }
+  .OverLAy .social_icon{
+    text-align: left !important;
+  }
+  .foot-link h3 {
+    text-align: left !important;
+  }
+  .ServiceTitle{
+    font-size: 16px;
+  }
+  .AndroidAppService .ServiceHeading p {
+    padding: 10px;
+  }
+  .AndroidAppService .ServiceHeading p {
+    padding: 10px 30px !important;
+  }
+  .AndroidService.text-left h3 {
+    text-align: left;
+  }
+  .AndroidService.text-left ul li {
+    text-align: left !important;
+  }
+  .WhyChoose .Box1{
+    margin: 10px;
+    padding: 10px;
+  }
+  .Box1.custombox.width.full {
+    width: 45% !important;
+    margin: 10px;
+  }
+  .HireDrupal .ServiceHeading h3{
+    font-size: 20px;
+  }
+  .Hire_Title p{
+    font-size: 16px !important;
+  }
+  .Hire_Button {
+    padding: 10px 30px !important;
+  }
+  .Box1.Web-design {
+    width: 28% !important;
+  }
+  /*.AndroidAppService .AndroidIcon .Icon {
+    width: 100%;
+  }*/
+}
+@media (max-width: 576px) {
+  .about-us-content{
+    padding: 0;
+  }
+  .Mission-Vision{
+    padding-top: 30px;
+  }
+  .Mission-Vision.bg{
+    padding: 30px 0;
+  }
+  .Mission-Vision.pt{
+    padding: 30px 0;
+  }
+  .KeyExcellencePara ul {
+    padding-left: 0;
+  }
+  .About.WhyWie {
+    margin: 0;
+  }
+  .AppColoum .WhyColum{
+    height: auto;
+    margin-bottom: 3%;
+  }
+  .iOSImage.mt-15 {
+    margin-top: 20%;
+  }
+  .social_icon{
+    text-align: left !important;
+  }
+  .foot-link.foot_link_hire h3 {
+    text-align: left !important;
+  }
+  .AndroidAppService .ServiceHeading p{
+    padding: 10px;
+  }
+  .leftsec ul {
+    padding-left: 0;
+  }
+  .WhyWIE .col-md-6.mt-5 {
+    margin-top: 0 !important;
+  }
+  .WhyWIE {
+    padding-bottom: 0;
+  }
+  .iOSServicesIcon{
+    margin-left: 10px;
+  }
+  .Porttab .Portfolio .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    padding: 10px 20px;
+  }
+  .Stack .nav-tabs .nav-link{
+    padding-bottom: 20px;
+  }
+  .WhyChoose .Box1{
+    width: 25% !important;
+  }
+  .Box1.custombox.width {
+    width: 21% !important;
+    margin: 0 10px;
+    padding: 10px;
+  }
+  .WhyChoose .Box1 h4 {
+    font-size: 16px;
+  }
+  .Box1.custombox.width p {
+    font-size: 12px;
+  }
+  .wordpress_side.custom {
+    left: auto;
+  }
+  .WeDo.pt-15 {
+    padding: 0 !important;
+  }
+  .HeadingArea.Fixed{
+    height: auto;
+    margin-bottom: 30px;
+  }
+  .HireDrupal{
+    padding-top: 0;
+  }
+  .Hire_Title p{
+    font-size: 20px;
+    text-align: center;
+  }
+  .Hire_Button {
+    padding: 10px 100px;
+  }
+  .Box1.Web-design {
+    width: 29% !important;
+  }
+  .footer_logo {
+    padding-bottom: 50px;
+  }
+  .HeadingArea{
+    height: auto;
+    margin-bottom: 5%;
+  }
+  .HeadingArea .Text p {
+    margin-bottom: 0;
+  }
+  .AndroidAppService .AndroidIcon{
+    line-height: 40px;
+  }
+  .BlockChainSecTwo .ServiceHeading h3{
+    line-height: 25px;
+    font-size: 20px;
+  }
+  .JobDescriptionTwo ul li {
+    list-style: none;
+  }
+  .JobDescription {
+    width: 100%;
+  }
+  .JobDescriptionTwo {
+    width: 100%;
+  }
+  .JobDescriptionTwo ul {
+    padding-left: 0;
+  }
+}

@@ -1,0 +1,479 @@
+
+
+body {
+    margin: 0;
+    font-family: "Poppins", Arial, sans-serif;
+     /* Prevent scrolling during animation */
+}
+
+.animation-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+    animation: fadeOut 2.5s ease 2.5s forwards; /* Animation duration + delay */
+}
+
+.animation-text img {
+    width: 200px; /* Adjust logo size */
+    opacity: 0;
+    animation: logoZoomIn 2s ease forwards;
+}
+
+.main-content {
+    display: none; /* Hide main content initially */
+    text-align: center;
+    padding: 20px;
+    color: white;
+    animation: fadeIn 1s ease forwards;
+}
+
+/* Animations */
+@keyframes logoZoomIn {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(4.1);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(10);
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/* Show the main content after the intro animation */
+body.loaded .main-content {
+    display: block;
+}
+
+/* navbar start */
+body {
+    margin: 0;
+    font-family: "Poppins", Arial, sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px; /* Adjusted padding to bring content closer */
+    background: linear-gradient(145deg, #1e1e1e, #252525);
+    box-shadow: 0 6px 15px rgba(175, 152, 152, 0.5);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    max-width: 1200px; /* Limit the max width to keep things from stretching too wide */
+    margin: 0 auto; /* Center the navbar */
+    margin-top: 50px;
+    border-radius: 100px;
+
+}
+
+/* nav logo animation start */
+
+.navbar .logo {
+    display: flex;
+    align-items: center;
+    opacity: 0; /* Start with the logo hidden */
+    animation: logoAnimation 1.5s ease-out forwards;
+    animation-delay: 2.5s; /* Delay after intro animation */
+    margin-right: 50px; /* Add some space between the logo and nav links */
+}
+
+.navbar .logo img {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.navbar .logo span {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff;
+    transition: color 0.3s ease;
+}
+
+/* Fading and Sliding in Logo Animation */
+@keyframes logoAnimation {
+    0% {
+        transform: translateX(-100%); /* Start from the left (or right depending on preference) */
+        opacity: 0;
+    }
+    50% {
+        transform: translateX(10%); /* Slight movement to the right */
+        opacity: 0.7;
+    }
+    100% {
+        transform: translateX(0); /* Final position */
+        opacity: 1;
+    }
+}
+
+/* Adding a premium glow effect */
+.navbar .logo img,
+.navbar .logo span {
+    animation: glowEffect 2s ease-in-out infinite alternate;
+}
+
+/* Glowing effect on logo */
+@keyframes glowEffect {
+    0% {
+        text-shadow: 0 0 5px rgba(255, 255, 255, 0.7), 0 0 10px rgba(255, 255, 255, 0.7);
+        box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+    }
+    100% {
+        text-shadow: 0 0 20px rgba(0, 255, 255, 1), 0 0 30px rgba(0, 255, 255, 0.8);
+        box-shadow: 0 0 30px rgba(0, 255, 255, 0.8);
+    }
+}
+
+/* nav logo animation ends */
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center; /* Center align the links */
+    flex-grow: 1; /* Make sure nav links take the remaining space */
+}
+
+.nav-links li {
+    margin: 0 15px; /* Adjust spacing between links */
+    position: relative;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.nav-links li:hover {
+    color: #1dbf73;
+}
+
+.nav-links li::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #1dbf73;
+    transition: width 0.3s ease;
+}
+
+.nav-links li:hover::after {
+    width: 100%;
+}
+
+
+
+.cart {
+    position: relative;
+}
+
+.badge {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background: #1dbf73;
+    color: white;
+    font-size: 12px;
+    border-radius: 50%;
+    padding: 2px 6px;
+}
+
+.quote {
+    display: inline-block;
+    background-color: #1dbf73;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    text-decoration: none;
+}
+
+.quote:hover {
+    background-color: #16a25e; /* Darken on hover */
+    transform: scale(1.05);
+}
+
+.quote:active {
+    background-color: #149a4e; /* Slightly darker when clicked */
+}
+
+
+/*  */
+/*  */
+        /* .content-frame {
+            background-color: #fff;
+            color: #000;
+            padding: 80px 20px;
+            max-width: 9000px;
+            margin: 50px auto;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(255, 255, 255, 0.1);
+            opacity: 0;
+            transform: scale(0.8);
+            transition: all 1.5s ease-in-out;
+        } */
+
+        .content-frame {
+            background: url('img/main-content.jpg') no-repeat center center/cover;
+            color: #000;
+            padding: 80px 20px;
+            max-width: 9000px;
+            margin: 50px auto;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(255, 255, 255, 0.1);
+            opacity: 0;
+            transform: scale(0.8);
+            transition: all 1.5s ease-in-out;
+        }
+        .content-frame.fade-in {
+            opacity: 1;
+            transform: scale(1);
+        }
+        .title {
+            font-size: 3em;
+            font-weight: bold;
+            color: #fff;
+        }
+        .description {
+            font-size: 1.2em;
+            margin: 20px 0;
+            max-width: 800px;
+            color: #fff;
+            /* margin-left: auto;
+            margin-right: auto; */
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            color: #fff;
+            background: #000;
+            border-radius: 50px;
+            text-decoration: none;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        .cta-button:hover {
+            background: #444;
+            transform: scale(1.1);
+        }
+
+        /* main content end */
+
+        /* about section start */
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+        .About {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 100px 20px;
+            font-family: 'Orbitron', sans-serif;
+        }
+        
+        .AboutHeading h2 {
+            font-size: 3rem;
+            background: linear-gradient(90deg, #ffffff, #00aaff);
+            background-size: 200% 100%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 700;
+            animation: gradientAnimation 15s ease-in-out infinite;
+        }
+        
+        .AboutText p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 20px auto;
+            line-height: 1.6;
+        }
+        
+        .PlatformButton a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(90deg, #00aaff, #0055ff);
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+            text-decoration: none;
+        }
+        
+        .PlatformButton a:hover {
+            background: linear-gradient(90deg, #0055ff, #00aaff);
+            transform: scale(1.05);
+        }
+        
+        @keyframes gradientAnimation {
+            0% {
+                background-position: 200% 0;
+            }
+            50% {
+                background-position: -200% 0;
+            }
+            100% {
+                background-position: 200% 0;
+            }
+        }
+        
+
+        /* .AboutText{
+            background-color: #fff;
+            color: #000;
+            width: 800px;
+            height: 500px;
+            border-radius: 20px;
+            margin-left: 80px;
+            
+        }
+
+        .AboutText-para{
+            font-size: 30px;
+            font-weight: 100px
+        } */
+
+        
+
+        /* about section end */
+
+        /* about para start */
+        .AboutText {
+            width: 800px;
+            height: 500px;
+            background: linear-gradient(135deg, #ffffff, #f1f1f1); /* Subtle gradient background */
+            color: #000;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+            overflow-y: auto; /* Scroll if content exceeds height */
+            font-family: 'Poppins', sans-serif;
+            transition: all 0.3s ease-in-out;
+            margin-left: 80px;
+        }
+        
+        /* Add a border effect on hover */
+        .AboutText:hover {
+            transform: scale(1.02);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+        }
+        
+        /* Heading styles with animation */
+        .AboutText-para {
+            font-size: 1.8rem;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 20px;
+            color: #000000;
+            position: relative;
+            animation: fadeInDown 1.2s ease-in-out;
+        }
+        
+        /* Paragraph styling */
+        .AboutText p {
+            font-size: 1rem;
+            line-height: 1.8;
+            text-align: justify;
+            animation: fadeInUp 1.5s ease-in-out;
+        }
+        
+        /* Scrollbar styling */
+        .AboutText::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        .AboutText::-webkit-scrollbar-track {
+            background: #ddd;
+            border-radius: 10px;
+        }
+        
+        .AboutText::-webkit-scrollbar-thumb {
+            background: #00aaff;
+            border-radius: 10px;
+        }
+        
+        .AboutText::-webkit-scrollbar-thumb:hover {
+            background: #0055ff;
+        }
+        
+        /* Fade-in animations */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 820px) {
+            .AboutText {
+                width: 90%;
+                height: auto;
+                padding: 20px;
+            }
+        
+            .AboutText-para {
+                font-size: 1.5rem;
+            }
+        
+            .AboutText p {
+                font-size: 0.9rem;
+            }
+        }
+        
+        /* about para end */

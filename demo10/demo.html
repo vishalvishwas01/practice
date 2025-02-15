@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XeltraTech Logo Animation</title>
+    <link rel="stylesheet" href="style1.css"
+</head>
+<body>
+    <!-- Intro screen -->
+    <div class="intro-screen">
+        <div class="logo">
+            <div class="circle">
+                <div class="text">
+                    <img class="logo-image" src="img/logo.png" alt="Logo">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Home page content (will be shown after intro) -->
+    <nav class="navbar">
+        <div class="logo">
+            <img src="img/logo.png" alt="Engitech Logo">
+            <span>XELTRATECH</span>
+        </div>
+        <ul class="nav-links">
+            <li class="dropdown">Home</li>
+            <li class="dropdown">Company</li>
+            <li class="dropdown">Services</li>
+            <li class="dropdown">Projects</li>
+            <li class="dropdown">Blog</li>
+            <li>Contacts</li>
+        </ul>
+        <div class="icons">
+            <div class="cart">
+                <i class="fas fa-shopping-bag"></i>
+                <span class="badge">0</span>
+            </div>
+            <i class="fas fa-search"></i>
+            <i class="fas fa-th"></i>
+        </div>
+    </nav>
+    
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+    <script>
+        // Wait for the intro animation to end, then show home page
+        setTimeout(function() {
+            document.querySelector('.intro-screen').style.display = 'none'; // Hide intro screen
+            document.querySelector('.home-page').style.display = 'block'; // Show home page
+        }, 5000); // Matches the duration of the intro animation
+    </script>
+</body>
+</html>

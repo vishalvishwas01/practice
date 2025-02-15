@@ -1,0 +1,268 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Jan 2025 17:25:06 at https://wpdemo.archiwp.com/engitech/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wpdemo.archiwp.com/engitech/# -O1 "C:\Users\rocks\OneDrive\Desktop\practice\qw" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:25:08	Warning: 	Note: due to https://wpdemo.archiwp.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+17:31:26	Warning: 	Found for https://wpdemo.archiwp.com/engitech/checkout/
+17:31:26	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/checkout/ to https://wpdemo.archiwp.com/engitech/cart/
+17:32:32	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/404 (from https://wpdemo.archiwp.com/engitech/)
+17:34:03	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2451
+17:34:03	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2451 to https://wpdemo.archiwp.com/engitech/home-2/
+17:34:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpdemo.archiwp.com/engitech/wp-content/uploads/sites/4/elementor/css/post-2843.css?ver=1725378028 (from https://wpdemo.archiwp.com/engitech/home-2/)
+17:34:08	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2496
+17:34:08	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2496 to https://wpdemo.archiwp.com/engitech/home-3/
+17:34:22	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2544
+17:34:22	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2544 to https://wpdemo.archiwp.com/engitech/home-4/
+17:34:58	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2588
+17:34:58	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2588 to https://wpdemo.archiwp.com/engitech/home-5/
+17:35:01	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=3038
+17:35:01	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=3038 to https://wpdemo.archiwp.com/engitech/home-6/
+17:35:03	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=3655
+17:35:03	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=3655 to https://wpdemo.archiwp.com/engitech/home-7/
+17:35:08	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=3657
+17:35:08	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=3657 to https://wpdemo.archiwp.com/engitech/home-8/
+17:35:13	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=3872
+17:35:13	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=3872 to https://wpdemo.archiwp.com/engitech/home-9/
+17:35:14	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=4858
+17:35:14	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=4858 to https://wpdemo.archiwp.com/engitech/home-10/
+17:35:15	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=4899
+17:35:15	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=4899 to https://wpdemo.archiwp.com/engitech/home-11/
+17:35:15	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=5188
+17:35:15	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=5188 to https://wpdemo.archiwp.com/engitech/home-12/
+17:35:19	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=5457
+17:35:19	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=5457 to https://wpdemo.archiwp.com/engitech/home-13/
+17:35:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=5853
+17:35:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=5853 to https://wpdemo.archiwp.com/engitech/home-14/
+17:35:48	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=6851
+17:35:48	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=6851 to https://wpdemo.archiwp.com/engitech/home-15/
+17:37:13	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=7201
+17:37:13	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=7201 to https://wpdemo.archiwp.com/engitech/home-16/
+17:37:20	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=7553
+17:37:20	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=7553 to https://wpdemo.archiwp.com/engitech/home-17/
+17:37:30	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=8282
+17:37:30	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=8282 to https://wpdemo.archiwp.com/engitech/home-18/
+17:37:31	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=8857
+17:37:31	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=8857 to https://wpdemo.archiwp.com/engitech/home-19/
+17:37:36	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=9684
+17:37:36	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=9684 to https://wpdemo.archiwp.com/engitech/home-20/
+17:37:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=9893
+17:37:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=9893 to https://wpdemo.archiwp.com/engitech/home-21/
+17:37:45	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=10167
+17:37:45	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=10167 to https://wpdemo.archiwp.com/engitech/home-22/
+17:37:52	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=10316
+17:37:52	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=10316 to https://wpdemo.archiwp.com/engitech/home-23/
+17:37:55	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=10546
+17:37:55	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=10546 to https://wpdemo.archiwp.com/engitech/home-24/
+17:37:56	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=10667
+17:37:56	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=10667 to https://wpdemo.archiwp.com/engitech/home-25/
+17:37:56	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=10812
+17:37:56	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=10812 to https://wpdemo.archiwp.com/engitech/home-26/
+17:37:56	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1579
+17:37:56	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1579 to https://wpdemo.archiwp.com/engitech/about-us/
+17:37:56	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1496
+17:37:56	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1496 to https://wpdemo.archiwp.com/engitech/why-choose-us/
+17:37:56	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=8464
+17:37:56	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=8464 to https://wpdemo.archiwp.com/engitech/careers/
+17:37:57	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=8512
+17:37:57	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=8512 to https://wpdemo.archiwp.com/engitech/single-career/
+17:37:57	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=8577
+17:37:57	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=8577 to https://wpdemo.archiwp.com/engitech/job-apply/
+17:37:57	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1428
+17:37:57	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1428 to https://wpdemo.archiwp.com/engitech/our-team/
+17:37:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpdemo.archiwp.com/engitech/wp-content/uploads/sites/4/2020/01/member8.jpg (from https://wpdemo.archiwp.com/engitech/our-team/)
+17:37:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpdemo.archiwp.com/engitech/wp-content/uploads/sites/4/elementor/css/post-2218.css?ver=1725380500 (from https://wpdemo.archiwp.com/engitech/our-team/single-team/)
+17:37:57	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2218
+17:37:57	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2218 to https://wpdemo.archiwp.com/engitech/our-team/single-team/
+17:39:53	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2652
+17:39:53	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2652 to https://wpdemo.archiwp.com/engitech/product/t-shirt-with-logo/
+17:39:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpdemo.archiwp.com/engitech/wp-content/uploads/sites/4/2020/03/product-1-1.jpg (from https://wpdemo.archiwp.com/engitech/product/t-shirt-with-logo/)
+17:39:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpdemo.archiwp.com/engitech/wp-content/uploads/sites/4/2020/03/product-1-1-600x600.jpg (from https://wpdemo.archiwp.com/engitech/product/t-shirt-with-logo/)
+17:39:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpdemo.archiwp.com/engitech/wp-content/uploads/sites/4/2020/03/product-1-2.jpg (from https://wpdemo.archiwp.com/engitech/product/t-shirt-with-logo/)
+17:39:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpdemo.archiwp.com/engitech/wp-content/uploads/sites/4/2020/03/product-1-2-600x600.jpg (from https://wpdemo.archiwp.com/engitech/product/t-shirt-with-logo/)
+17:40:08	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2615
+17:40:08	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2615 to https://wpdemo.archiwp.com/engitech/cart/
+17:40:11	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1357
+17:40:11	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1357 to https://wpdemo.archiwp.com/engitech/typography/
+17:40:11	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1696
+17:40:11	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1696 to https://wpdemo.archiwp.com/engitech/elements/
+17:40:13	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1390
+17:40:13	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1390 to https://wpdemo.archiwp.com/engitech/faqs/
+17:40:13	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1476
+17:40:13	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1476 to https://wpdemo.archiwp.com/engitech/coming-soon/
+17:40:13	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2407
+17:40:13	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2407 to https://wpdemo.archiwp.com/engitech/it-services/
+17:40:17	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1583
+17:40:17	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1583 to https://wpdemo.archiwp.com/engitech/it-services/web-development/
+17:40:17	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2076
+17:40:17	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2076 to https://wpdemo.archiwp.com/engitech/it-services/mobile-development/
+17:40:17	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1866
+17:40:17	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1866 to https://wpdemo.archiwp.com/engitech/portfolio-grid/
+17:40:25	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1914
+17:40:25	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1914 to https://wpdemo.archiwp.com/engitech/portfolio-masonry/
+17:40:25	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2036
+17:40:25	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2036 to https://wpdemo.archiwp.com/engitech/portfolio-slider/
+17:40:25	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2441
+17:40:25	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2441 to https://wpdemo.archiwp.com/engitech/portfolio-full-width/
+17:40:25	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2438
+17:40:25	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2438 to https://wpdemo.archiwp.com/engitech/portfolio-no-gap/
+17:40:25	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1825
+17:40:25	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1825 to https://wpdemo.archiwp.com/engitech/portfolio/ecommerce-website/
+17:40:25	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1827
+17:40:25	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1827 to https://wpdemo.archiwp.com/engitech/portfolio/mobile-coin-view-app/
+17:40:25	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1821
+17:40:25	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1821 to https://wpdemo.archiwp.com/engitech/portfolio/corporate-website/
+17:41:49	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=6564
+17:41:49	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=6564 to https://wpdemo.archiwp.com/engitech/blog-grid/
+17:42:33	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1263
+17:42:33	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1263 to https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/
+17:42:33	Error: 	"Method Not Allowed" (405) at link https://wpdemo.archiwp.com/engitech/xmlrpc.php (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/)
+17:42:33	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/twitter.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/)
+17:42:33	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/facebook.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/)
+17:42:33	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/linkedin.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/)
+17:42:33	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/instagram.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/)
+17:42:33	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1370
+17:42:33	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1370 to https://wpdemo.archiwp.com/engitech/contacts/
+17:42:33	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1828
+17:42:33	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1828 to https://wpdemo.archiwp.com/engitech/portfolio/app-for-virtual-reality/
+17:42:33	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1826
+17:42:33	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1826 to https://wpdemo.archiwp.com/engitech/portfolio/analysis-of-security/
+17:42:33	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1824
+17:42:33	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1824 to https://wpdemo.archiwp.com/engitech/portfolio/basics-project/
+17:42:33	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1823
+17:42:33	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1823 to https://wpdemo.archiwp.com/engitech/portfolio/social-media-app/
+17:42:35	Warning: 	File not parsed, looks like binary: https://wpdemo.archiwp.com/engitech/wp-content/plugins/revslider/sr6/assets/css/openhand.cur
+17:42:35	Warning: 	File not parsed, looks like binary: https://wpdemo.archiwp.com/engitech/wp-content/plugins/revslider/sr6/assets/css/closedhand.cur
+17:42:35	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1463
+17:42:35	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1463 to https://wpdemo.archiwp.com/engitech/portfolio/responsive-design/
+17:42:35	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1461
+17:42:35	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1461 to https://wpdemo.archiwp.com/engitech/portfolio/app-for-health/
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/mobile-development/twitter.com (from https://wpdemo.archiwp.com/engitech/mobile-development/)
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/mobile-development/facebook.com (from https://wpdemo.archiwp.com/engitech/mobile-development/)
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/mobile-development/linkedin.com (from https://wpdemo.archiwp.com/engitech/mobile-development/)
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/mobile-development/instagram.com (from https://wpdemo.archiwp.com/engitech/mobile-development/)
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/web-development/twitter.com (from https://wpdemo.archiwp.com/engitech/web-development/)
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/web-development/facebook.com (from https://wpdemo.archiwp.com/engitech/web-development/)
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/web-development/linkedin.com (from https://wpdemo.archiwp.com/engitech/web-development/)
+17:42:35	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/web-development/instagram.com (from https://wpdemo.archiwp.com/engitech/web-development/)
+17:42:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1259
+17:42:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1259 to https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/twitter.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/)
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/facebook.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/)
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/linkedin.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/)
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/instagram.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/)
+17:42:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=26
+17:42:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=26 to https://wpdemo.archiwp.com/engitech/building-data-analytics-software/
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/building-data-analytics-software/twitter.com (from https://wpdemo.archiwp.com/engitech/building-data-analytics-software/)
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/building-data-analytics-software/facebook.com (from https://wpdemo.archiwp.com/engitech/building-data-analytics-software/)
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/building-data-analytics-software/linkedin.com (from https://wpdemo.archiwp.com/engitech/building-data-analytics-software/)
+17:42:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/building-data-analytics-software/instagram.com (from https://wpdemo.archiwp.com/engitech/building-data-analytics-software/)
+17:42:46	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2649
+17:42:46	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2649 to https://wpdemo.archiwp.com/engitech/product/accessories-for-watch-2/
+17:42:47	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2647
+17:42:47	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2647 to https://wpdemo.archiwp.com/engitech/product/hoodie-with-logo/
+17:42:58	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2645
+17:42:58	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2645 to https://wpdemo.archiwp.com/engitech/product/your-energy-drink/
+17:43:04	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2643
+17:43:04	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2643 to https://wpdemo.archiwp.com/engitech/product/dark-t-shirt-with-logo/
+17:43:15	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2641
+17:43:15	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2641 to https://wpdemo.archiwp.com/engitech/product/case-for-iphone-11-pro/
+17:43:16	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2639
+17:43:16	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2639 to https://wpdemo.archiwp.com/engitech/product/dark-bag-with-logo/
+17:43:22	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2637
+17:43:22	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2637 to https://wpdemo.archiwp.com/engitech/product/accessories-for-watch/
+17:43:23	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2635
+17:43:23	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2635 to https://wpdemo.archiwp.com/engitech/product/note-with-logo/
+17:43:27	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/shop/page/1/
+17:43:27	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/shop/page/1/ to https://wpdemo.archiwp.com/engitech/shop/
+17:43:38	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2633
+17:43:38	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2633 to https://wpdemo.archiwp.com/engitech/product/skateboard-with-logo/
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1455
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1455 to https://wpdemo.archiwp.com/engitech/portfolio/your-new-reality/
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1822
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1822 to https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1820
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1820 to https://wpdemo.archiwp.com/engitech/portfolio/crypto-app-project/
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=20
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=20 to https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/twitter.com (from https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/facebook.com (from https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/linkedin.com (from https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/instagram.com (from https://wpdemo.archiwp.com/engitech/how-to-make-website-wcag-compliant/)
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/blog/page/1/
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/blog/page/1/ to https://wpdemo.archiwp.com/engitech/blog/
+17:43:42	Error: 	"Unauthorized" (401) at link https://wpdemo.archiwp.com/engitech/wp-json/wp/v2/media/1896 (from https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/)
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1896
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1896 to https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/twitter.com (from https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/facebook.com (from https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/linkedin.com (from https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/instagram.com (from https://wpdemo.archiwp.com/engitech/portfolio/immersive-experience/project11/)
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1499
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1499 to https://wpdemo.archiwp.com/engitech/why-choose-us/man1/
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1302
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1302 to https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/twitter.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/facebook.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/linkedin.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/)
+17:43:42	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/instagram.com (from https://wpdemo.archiwp.com/engitech/plan-your-project-with-your-software/blog1/)
+17:43:42	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1287
+17:43:42	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1287 to https://wpdemo.archiwp.com/engitech/blog-post/
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/blog-post/twitter.com (from https://wpdemo.archiwp.com/engitech/blog-post/)
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/blog-post/facebook.com (from https://wpdemo.archiwp.com/engitech/blog-post/)
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/blog-post/linkedin.com (from https://wpdemo.archiwp.com/engitech/blog-post/)
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/blog-post/instagram.com (from https://wpdemo.archiwp.com/engitech/blog-post/)
+17:43:43	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=1430
+17:43:43	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=1430 to https://wpdemo.archiwp.com/engitech/our-team/top-team/
+17:43:43	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2344
+17:43:43	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2344 to https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/twitter.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/)
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/facebook.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/)
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/linkedin.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/)
+17:43:43	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/instagram.com (from https://wpdemo.archiwp.com/engitech/you-have-a-great-business-idea-2/blog2/)
+17:43:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=22
+17:43:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=22 to https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/twitter.com (from https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/facebook.com (from https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/linkedin.com (from https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/instagram.com (from https://wpdemo.archiwp.com/engitech/the-future-of-enterprise-api-development/)
+17:43:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=19
+17:43:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=19 to https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/twitter.com (from https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/facebook.com (from https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/linkedin.com (from https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/instagram.com (from https://wpdemo.archiwp.com/engitech/how-to-make-your-ios-13-compatible/)
+17:43:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=21
+17:43:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=21 to https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/twitter.com (from https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/facebook.com (from https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/linkedin.com (from https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/instagram.com (from https://wpdemo.archiwp.com/engitech/the-next-big-challenge-for-content-marketer/)
+17:43:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=24
+17:43:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=24 to https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/twitter.com (from https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/facebook.com (from https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/linkedin.com (from https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/instagram.com (from https://wpdemo.archiwp.com/engitech/tackling-the-changes-of-retail-industry/)
+17:43:44	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=18
+17:43:44	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=18 to https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/twitter.com (from https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/facebook.com (from https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/linkedin.com (from https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/)
+17:43:44	Error: 	"Not Found" (404) at link https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/instagram.com (from https://wpdemo.archiwp.com/engitech/the-future-of-ecommerce-business/)
+17:43:46	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/category/development/page/1/
+17:43:46	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/category/development/page/1/ to https://wpdemo.archiwp.com/engitech/category/development/
+17:43:46	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/author/admin/page/1/
+17:43:46	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/author/admin/page/1/ to https://wpdemo.archiwp.com/engitech/author/admin/
+17:43:48	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2631
+17:43:48	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2631 to https://wpdemo.archiwp.com/engitech/product/natural-coffee/
+17:43:52	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/?p=2619
+17:43:52	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/?p=2619 to https://wpdemo.archiwp.com/engitech/product/blue-t-shirt-with-logo/
+17:43:55	Warning: 	Moved Permanently for https://wpdemo.archiwp.com/engitech/portfolio/page/1/
+17:43:55	Warning: 	File has moved from https://wpdemo.archiwp.com/engitech/portfolio/page/1/ to https://wpdemo.archiwp.com/engitech/portfolio/
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 50 seconds : 1762 links scanned, 1599 files written (105889052 bytes overall) [76359660 bytes received at 67574 bytes/sec], 54679513 bytes transferred using HTTP compression in 353 files, ratio 27%, 7.7 requests per connection
+(63 errors, 194 warnings, 0 messages)

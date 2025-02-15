@@ -1,0 +1,192 @@
+
+@media (max-width:767px) {
+h1, h2, h3, h4, h5, h6{	
+	font-family: 'Montserrat', sans-serif;
+	font-size: initial;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: initial;
+}
+.navbar-brand {
+    padding: 0 !important;
+    width: 19%;
+}
+.container-fluid {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+.Offer_Coloum{
+	height: auto !important;
+	margin-bottom: 1rem;
+}
+.Navigation {
+    background-color: #333;
+}
+.navbar-toggler-icon i {
+	color: #fff;
+	font-size: 33px;
+}
+
+.Banner_Heading h1 {
+	font-size: initial;
+}
+.Banner_Button button {
+	font-size: initial;
+}
+.Banner_Input h4 {
+	font-size: initial;
+}
+.Banner_Input p {
+	font-size: small;
+}
+
+.banner_input_text{
+	width: 100% !important;
+	border-radius: 0 !important;
+	float: left;
+}
+.banner_input_button{
+	width: 100% !important;
+	border-radius: 0 !important;
+	float: left;
+}
+.VIP_Pass{
+	margin: 5rem 0rem 1rem 0rem;
+}
+.nav-item {
+	border: 2px solid #393939;
+	margin: 1px !important;
+}
+.navbar-nav.ml-auto.float-right {
+	float: left !important;
+	width: 100%;
+	text-align: center;
+}
+.Form_Submit{
+    padding-left: 0.9rem !important;
+    font-weight: normal !important;
+}
+
+.Hidden_Label{
+	display: none;
+}
+.Banner_Text h2 {
+    font-size: initial;
+}
+.Banner_Text p {
+    font-size: x-small;
+}
+.Banner_Text {
+    padding: 0rem 1rem;
+    color: #fff;
+}
+.Banner_Text h2 {
+    font-size: initial;
+}
+.Banner_Content {
+    top: 25%;
+}
+
+/****************26/8/2019***************/
+.project_details {
+	position: initial;
+	top: 35%;
+	margin-top: 1rem;
+}
+.project_banner_form {
+	border: 1px solid black;
+	border-radius: 20px;
+	width: 100%;
+	box-shadow: 5px 5px 5px 0px gray;
+	background-color: #fff;
+}
+.form_right_heading{
+	display: none;
+}
+.project_img img{
+	width: 100%;
+	margin-bottom: 1rem;
+}
+.location_map iframe{
+	width: 100%;
+	height: 100%;
+}
+.location{
+	margin-top: 1rem;
+}
+.form_right_rs p {
+    font-size: 60px;
+}
+.project_details_heading p{
+	text-align: left;
+}
+.p_details h5 {
+	font-size: 29px;
+}
+.reasons_main p {
+	font-size: 29px;
+}
+.quick_facts_heading h6{
+	font-size: 29px;
+}
+.location_heading h5{
+	font-size: 29px;
+}
+.banner_heading h4 {
+    font-size: 13pt;
+}
+.banner_heading p{
+	font-size: 12px;
+}
+.about_banner {
+    position: absolute;
+    top: 5%;
+}
+.banner_heading {
+    padding: 0%;
+}
+.about_para_one p {
+    text-align: justify;
+}
+.tab-content{
+	overflow: scroll;
+}
+.Calculator_Class{
+	overflow: hidden;
+	padding: 0;
+}
+.tab-pane {
+    width: 1600px;
+}
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) { 
+.container-fluid {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+.project_banner_form {
+    width: 100%;
+}
+.form_right_heading p {
+    font-size: 28px;
+}
+.form_right_rate_heading h5 {
+    font-size: 20px;
+}
+.form_right_rate_heading p {
+    font-size: 14px;
+}
+.form_right_rs p {
+    font-size: 51px;
+}
+.form_right_rate_main {
+    margin-top: 7rem;
+}
+.nav-item .nav-link {
+    padding: 0.5rem 1rem !important;
+    color: #000;
+}
+}
